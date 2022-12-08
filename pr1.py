@@ -1,3 +1,4 @@
+# Author of program - Karim
 def my_superfunction():
     print('What an awesome print!')
 
